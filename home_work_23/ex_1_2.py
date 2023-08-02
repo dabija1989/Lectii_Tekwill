@@ -16,7 +16,7 @@ Serviciul pentru forme (Shape service) ar trebui să aibă următoarele metode:
 """
 # Solutie
 
-from home_work_21.ex_1_1 import Circle, Rectangle, Square, Shape
+from home_work_23.ex_1_1 import Circle, Rectangle, Square, Shape
 
 
 class ShapeService:
